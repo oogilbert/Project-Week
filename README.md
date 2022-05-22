@@ -1,7 +1,7 @@
 # Project Week
  Repository for Robocode
 
-Visit https://www.dropbox.com/request/n3OvDkOPfqlaky4TbYkO to submit your teams robot.
+Visit https://www.dropbox.com/request/n3OvDkOPfqlaky4TbYkO to submit your team's robot.
 
 Rules:
 1. You may use code from the robots AdvancedRobotExample, LinearTargeting, and BulletDodging as you wish.
